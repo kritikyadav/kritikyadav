@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kritikyadav
-- 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...Data Science
-- 💞️ I’m looking to collaborate in ...MNC
+- 👀 I’m interested in ...Development
+- 🌱 I’m currently working as a Full stack dev.
+- 💞️ With working Experience of 2 plus years
 - 📫 How to reach me ...Mail me kritikyadav2810@gmail.com
 
 <!---
